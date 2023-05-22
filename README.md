@@ -1,5 +1,5 @@
 # 0.1) Récuperer un Token Api sur Alpha Ventage :
-## https://www.alphavantage.co/support/#api-key
+### https://www.alphavantage.co/support/#api-key
 
 
 Success - redundant origins.
@@ -19,8 +19,7 @@ Generated Password [usKB9lNYxmglJyAQMy/1wyRS4S/KUhNb
 
 Le flux contient un “Stock data APIs” aux formats JSON, Excel & Google Sheets”
 
-# 0.5)
-On crée un Repository
+# 0.5) On crée un Repository
 https://github.com/krypton-alpha-kplr/spark-trading
 README.md avec Markdown
 
