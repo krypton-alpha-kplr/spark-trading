@@ -19,14 +19,15 @@ Generated Password [usKB9lNYxmglJyAQMy/1wyRS4S/KUhNb
 
 
 # 0.5) On crée un Repository
-https://github.com/krypton-alpha-kplr/spark-trading
+### https://github.com/krypton-alpha-kplr/spark-trading
+
 README.md avec Markdown
 
 
 
 # 1)
 Flux_trading=Spark.read,
-
+Parametrer le type de Flux
 On choisi le format :csv,
 
 
