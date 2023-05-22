@@ -15,9 +15,8 @@ Generated Username [c39ec50a-78ef-4f04-949b-fe3e17f07288]
 Generated Password [usKB9lNYxmglJyAQMy/1wyRS4S/KUhNb
 
 
+### Le flux contient un “Stock data APIs” aux formats JSON, Excel & Google Sheets”
 
-
-Le flux contient un “Stock data APIs” aux formats JSON, Excel & Google Sheets”
 
 # 0.5) On crée un Repository
 https://github.com/krypton-alpha-kplr/spark-trading
@@ -26,10 +25,9 @@ README.md avec Markdown
 
 
 # 1)
-# Flux_trading=Spark.read
-# Knime & Nifi
-# On choisi le format :csv
-# Netoyer
+Flux_trading=Spark.read,
+
+On choisi le format :csv,
 
 
 
@@ -40,9 +38,8 @@ README.md avec Markdown
 
 
 
-
-
-# 2) Transform
+# 2) Transform - Netoyer
+Knime & Nifi
 
 # 5) Persistance: Kafka Stockage
 
