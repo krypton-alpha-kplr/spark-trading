@@ -40,8 +40,7 @@ On choisi le format :csv,
 
 
 # 2) Transform - Netoyer
-Knime & Nifi
 
-# 5) Persistance: Kafka Stockage
+# 5) Persistance:
 
 # Final)  + Part1….ipynb => Dans Github
